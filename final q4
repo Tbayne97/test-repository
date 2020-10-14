@@ -1,0 +1,6 @@
+1)	What is a component – Provide a description (5 points)
+•	A component is when two predicator variables are transformed to create a new variable.
+2)	Principal Component Analysis – Provide a description.(5 points)
+•	Principal Component Analysis transforms components to simplify future analyses.
+3)	Provide and explain an specific example of a Principal Component Analysis(15 points)
+•	An example of principal component analysis: The SPCA may want to find a way to predict which candidates would be good foster parents. The predictor variables are: first time fosters, previous pet owners, current pet owners, travel time, and time spent at home. Travel time and time spent at home are highly correlated, so those two can be merged to be ‘availability’.
