@@ -1,0 +1,4 @@
+class myclass:
+    getString= str(input("Enter Something: "))
+    printString= getString.upper()
+    print(printString)
