@@ -1,0 +1,8 @@
+x= 2000
+y= 3201
+divisble_by= 7
+multiple_of= 5
+for i in range(x,y):
+       if i % divisble_by == 0:
+           if i % multiple_of != 0:
+            print(i)
